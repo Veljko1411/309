@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-  printf("Dobrodosli na prg");
+  printf("hello");
   return 0;
 }
